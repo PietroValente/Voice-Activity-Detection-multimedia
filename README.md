@@ -30,7 +30,7 @@ The realization of the algorithm comes from a careful analysis of the input file
 
 To compile:
 
-    g ++ -o VAD VAD.cpp
+    g++ -o VAD VAD.cpp
     
 To run the algorithm on a specific file:
 
