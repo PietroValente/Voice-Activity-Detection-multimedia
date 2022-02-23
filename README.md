@@ -29,4 +29,5 @@ The realization of the algorithm comes from a careful analysis of the input file
 ## Compile and usability
 
 To compile:
+
     g ++ -o VAD VAD.cpp
