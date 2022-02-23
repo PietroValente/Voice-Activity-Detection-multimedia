@@ -31,3 +31,9 @@ The realization of the algorithm comes from a careful analysis of the input file
 To compile:
 
     g ++ -o VAD VAD.cpp
+    
+To run the algorithm on a specific file:
+
+* Run on terminal './VAD'
+* Enter the file number you want to use and press enter
+* The input files, as well as the output files must be found / will be found in the specific folders
