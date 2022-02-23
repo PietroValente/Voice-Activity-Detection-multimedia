@@ -5,3 +5,5 @@
 </p>
 
 ## Overview
+
+Script with the aim of eliminating the noise present in an audio in moments of silence, recognizing when a person speaks and when there is only noise.
