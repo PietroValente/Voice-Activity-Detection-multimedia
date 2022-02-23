@@ -24,3 +24,5 @@ The realization of the algorithm comes from a careful analysis of the input file
 <p align="center">
  <a href="https://github.com/pietrovalente/Voice-Activity-Detection-multimedia/blob/main/images/Sample.png"><img src="https://github.com/pietrovalente/Voice-Activity-Detection-multimedia/blob/main/images/Sample.png" alt="" width="600px"></a>
 </p>
+
+## Compile and usability
