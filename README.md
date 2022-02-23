@@ -18,4 +18,4 @@ The goal is to transmit the lowest possible number of packets that allows the re
 
 Script with the aim of eliminating the noise present in an audio in moments of silence, recognizing when a person speaks and when there is only noise.
 
-For all the details relating to the implemented algorithm refer to the file Final project report for VAD algorithm.pdf
+The realization of the algorithm comes from a careful analysis of the input files through the Audacity software. For all the details relating to the implemented algorithm refer to the file Final project report for VAD algorithm.pdf
