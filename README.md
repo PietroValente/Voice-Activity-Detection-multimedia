@@ -34,6 +34,9 @@ To compile:
     
 To run the algorithm on a specific file:
 
-* Run on terminal './VAD'
+* Run on terminal:
+
+    ./VAD
+    
 * Enter the file number you want to use and press enter
 * The input files, as well as the output files must be found / will be found in the specific folders
