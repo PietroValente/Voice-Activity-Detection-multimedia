@@ -20,6 +20,7 @@ Script with the aim of eliminating the noise present in an audio in moments of s
 
 The realization of the algorithm comes from a careful analysis of the input files through the Audacity software. For all the details relating to the implemented algorithm refer to the file Final project report for VAD algorithm.pdf
 
+ &nbsp;
 <p align="center">
  <a href="https://github.com/pietrovalente/Voice-Activity-Detection-multimedia/blob/main/images/Sample.png"><img src="https://github.com/pietrovalente/Voice-Activity-Detection-multimedia/blob/main/images/Sample.png" alt="" width="600px"></a>
 </p>
